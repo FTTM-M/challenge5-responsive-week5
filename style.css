@@ -1,6 +1,9 @@
 .logo {
   max-width: 150px;
 }
+.second-logo {
+  max-width: 40px;
+}
 ul {
   margin: 0px;
   padding: 0px;
@@ -9,6 +12,7 @@ li {
   display: inline;
   list-style: none;
   font-family: "Poppins", sans-serif;
+
   line-height: 42px;
 }
 nav {
